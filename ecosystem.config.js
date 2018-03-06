@@ -34,7 +34,7 @@ module.exports = {
       //host : '212.83.163.1',
       host : '139.59.163.219',
       ref  : 'origin/master',
-      repo : 'git@github.com:fahadqazi/test-express-do.git',
+      repo : 'https://github.com:fahadqazi/test-express-do.git',
       path : 'var/www/production',
       'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production'
     },
