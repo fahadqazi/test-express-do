@@ -3,3 +3,6 @@ function hello(){
 }
 
 hello()
+
+console.log('1')
+console.lol('2')
