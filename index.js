@@ -5,4 +5,5 @@ function hello(){
 hello()
 
 console.log('1')
-console.lol('2')
+console.log('2')
+console.log('3')
